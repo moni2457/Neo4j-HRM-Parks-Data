@@ -1,0 +1,21 @@
+ParkName,partySize,RateType,BookingType,Equipment
+Dollar Lake,11,Full,CampsitePermit,ST
+Amherst Shore,6,Full,CampsitePermit,LT 40ft
+Caribou Munroes,9,Full,CampsitePermit,Tents
+Salsman,6,Full,CampsitePermit,Tents
+Five Islands,7,Full,CampsitePermit,ST
+Graves Island,35,Full,CampsitePermit,Tents
+Rissers Beach,8,Full,CampsitePermit,Tents
+Laurie,8,Full,CampsitePermit,LT 20ft
+Smileys,6,Full,CampsitePermit,LT 20ft
+Blomidon,10,Full,CampsitePermit,Tents
+Ellenwood Lake,12,Full,CampsitePermit,LT 30ft
+Thomas Raddall,8,Full,CampsitePermit,ST
+Mira River,9,Full,CampsitePermit,ST
+Whycocomagh,6,Full,CampsitePermit,LT 20ft
+Porters Lake,7,Full,CampsitePermit,ST
+Battery,9,Full,CampsitePermit,Tents
+The Islands,6,Full,CampsitePermit,LT 30ft
+Valleyview,11,Full,CampsitePermit,ST
+Cape Chignecto,14,Full,BackcountryPermit,ST
+Boylston,6,Full,CampsitePermit,Tents
